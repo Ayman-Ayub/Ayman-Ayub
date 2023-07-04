@@ -2,8 +2,8 @@
 
 <p>
   
-  <a href="https://www.linkedin.com/in/ayman-bilal/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- [<img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/u/0/#inbox?compose=aymanbilal042@gmail.com?)
+  <a href="[https://www.linkedin.com/in/ayman-ayub/](https://www.linkedin.com/in/ayman-ayub/)" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ [<img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/u/0/#inbox?compose=aymanayub1999@gmail.com?)
 </p>
 
 
@@ -41,9 +41,9 @@ Responsibilities:<br></br>
 
 ## 📈 &nbsp;Some Github Stats ##
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=Ayman-Bilal&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=Ayman-Bilal&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayman-Bilal&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=Ayman-Ayub&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=Ayman-Ayub&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayman-Ayub&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <br></br>
 
 # Projects
