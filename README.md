@@ -97,7 +97,7 @@ The primary deliverable of this project is that It can create truth-table and Bo
 ![Capture41](https://user-images.githubusercontent.com/114388506/193877344-24301f48-8fa8-428f-9592-53cdbf17ca24.JPG)
 
 <h5>Links:</h5>
-o https://github.com/Ayman-Bilal/SimLogical--DLD-Tool<br></br>
+o https://github.com/Ayman-Ayub/SimLogical--DLD-Tool<br></br>
 
 ## 7. Amazon-Clone Website In ReactJS
 
@@ -115,7 +115,7 @@ o https://clone-e3e42.web.app/<br></br>
 ![screencapture-localhost-3000-2022-10-04-20_39_09](https://user-images.githubusercontent.com/114388506/193863935-19f72757-e627-46a5-b033-fcbda8381d99.png)
 
 <h5>Links:</h5>
-o https://github.com/Ayman-Bilal/Expense-Tracker-app-in-ReactJS<br></br>
+o https://github.com/Ayman-Ayub/Expense-Tracker-app-in-ReactJS<br></br>
 
 ## 9. Travelling Website In Bootstrap
 
@@ -125,18 +125,18 @@ o https://github.com/Ayman-Bilal/Expense-Tracker-app-in-ReactJS<br></br>
 ![Capture24](https://user-images.githubusercontent.com/114388506/193862024-b4ae1641-96d1-49e1-9623-5ffa0ee5fba7.JPG)
 
 <h5>Links:</h5>
-o https://github.com/Ayman-Bilal/Travelling-Website<br></br>
+o https://github.com/Ayman-Ayub/Travelling-Website<br></br>
 
 ## 10. Ecommerce store in HTML
 ![Capture33](https://user-images.githubusercontent.com/114388506/193864550-a3dcba2d-2b21-41c1-8296-40b43ad00d63.JPG)
 
 <h5>Links:</h5>
-o https://github.com/Ayman-Bilal/product-landing-page<br></br>
+o https://github.com/Ayman-Ayub/product-landing-page<br></br>
 
 ## 11. Photography Website
 
 <h5>Links:</h5>
-o https://github.com/Ayman-Bilal/Photography-website
+o https://github.com/Ayman-Ayub/Photography-website
 
 
 ## Skill
