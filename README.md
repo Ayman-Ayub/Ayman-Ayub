@@ -22,10 +22,20 @@ Oct(2017) - Oct(2021)
 Graduated with CGPA 3.05 
 
 ## WORK EXPERIENCE 
+
+<h5> ReactJS Developer </h5>
+Orixity
+Islamabad,Pakistan
+August(2023)– Present<br></br>
+Responsibilities:<br></br>
+- Worked as ReactJS developer.<br></br>
+- Develop responsive and appealing websites for clients in ReactJS
+
+
 <h5> ReactJS Developer </h5>
 WebRange Solutions
 Islamabad,Pakistan
-November(2022)– Present<br></br>
+November(2022)– July(2022)<br></br>
 Responsibilities:<br></br>
 - Worked as junior ReactJS developer.<br></br>
 - Develop responsive and appealing websites for clients in ReactJS
